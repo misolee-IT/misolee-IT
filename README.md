@@ -1,3 +1,5 @@
+# Hi there 안녕하세요. I'm Miso Lee. 😄
+
 - 👋 Hi, I’m @misolee-IT
 - 👀 I worked as a PM at an IT app company and have held project manager roles in various industries.
 - 🌱 I’m currently learning to become a game designer.
