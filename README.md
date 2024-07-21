@@ -14,7 +14,7 @@
 ### Skill & Tools (including low level skill)
 
 <p align="left">
- <img src=https://raw.githubusercontent.com/misolee-IT/misolee/main/images/%E1%84%90%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC.png?token=GHSAT0AAAAAACVDPIQ5572PV4V2R4ASWME4ZU5BBXQ alt="C" width="1000" height="100"/>
+ <img src=https://raw.githubusercontent.com/misolee-IT/misolee/main/images/pictures%20(1)%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB.jpg?token=GHSAT0AAAAAACVDPIQ4CTLQQ6K2UJQSGJFAZU5BJYA alt="C" width="1000" height="100"/>
 </p>
 
 
