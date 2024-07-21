@@ -1,7 +1,7 @@
 # Hi there 안녕하세요.👋 I'm Miso Lee. 😄
 
 **About Me**
-- 👀 I worked as a PM at an IT app company and have held project manager roles in various industries.
+- 👀 I was a PM at an IT app company and have held project manager roles in various industries.
 - 🌱 I’m currently learning to become a game designer.
 - 💞️ I'm enjoy talking about newly released games.
 - 📫 How to reach me ...
