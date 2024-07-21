@@ -11,7 +11,7 @@
 
 <hr>
 
-### Skill & Tools (including minor proficiencies)
+### Skill & Tools (including low level skill)
 
 
 <!---
