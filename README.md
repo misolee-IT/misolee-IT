@@ -13,6 +13,8 @@
 
 ### Skill & Tools (including low level skill)
 
+ <img src="https://raw.githubusercontent.com/misolee-IT/misolee/images/툴사용.png" alt="C" width="40" height="40"/>
+
 
 <!---
 misolee-IT/misolee-IT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
