@@ -14,8 +14,10 @@
 ### Skill & Tools (including low level skill)
 
 <p align="left">
- <img src=https://raw.githubusercontent.com/misolee-IT/misolee/main/images/pictures%20(1)%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB.jpg?token=GHSAT0AAAAAACVDPIQ4RB23REJ42L6PUTUGZU5B6SQ alt="C" width="1100" height="95"/>
+ <img src=https://github.com/misolee-IT/misolee/blob/738e7b283e527e28aeb16643ff93b64c68cbcfcc/images/pictures%20(1)%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB.jpg
+ alt="C" width="1100" height="95"/>
 </p>
+
 
 <!---
 misolee-IT/misolee-IT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
